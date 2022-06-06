@@ -45,6 +45,18 @@
           "opcode": 335
         },
         {
+          "name": "AoeEffect16",
+          "opcode": 436
+        },
+        {
+          "name": "AoeEffect24",
+          "opcode": 928
+        },
+        {
+          "name": "AoeEffect32",
+          "opcode": 360
+        },
+        {
           "name": "ActorMove",
           "opcode": 306
         },
